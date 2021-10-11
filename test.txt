@@ -1,0 +1,6 @@
+Provisioning in sailpoint
+
+CRUD - Create Update(modify, change password, unlock, disable, enable) and Delete
+
+Flat file (HR Connectors)- many of the Hr connectors dont provide provisioning feature
+not all connetors provide provisioing feature.
